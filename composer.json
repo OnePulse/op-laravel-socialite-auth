@@ -1,8 +1,8 @@
 {
-    "name": "op/op-laravel-socialite-auth",
+    "name": "startpulsing/op-laravel-socialite-auth",
     "description": "Use socialite as a Laravel auth driver.",
     "keywords": [
-        "op",
+        "startpulsing",
         "op-laravel-socialite-auth"
     ],
     "homepage": "https://github.com/OnePulse/op-laravel-socialite-auth",
