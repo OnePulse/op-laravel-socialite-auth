@@ -1,11 +1,11 @@
 {
-    "name": "stechstudio/laravel-socialite-auth",
+    "name": "onepulse/op-laravel-socialite-auth",
     "description": "Use socialite as a Laravel auth driver.",
     "keywords": [
-        "stechstudio",
-        "laravel-socialite-auth"
+        "onepulse",
+        "op-laravel-socialite-auth"
     ],
-    "homepage": "https://github.com/stechstudio/laravel-socialite-auth",
+    "homepage": "https://github.com/OnePulse/op-laravel-socialite-auth",
     "license": "MIT",
     "type": "library",
     "authors": [
